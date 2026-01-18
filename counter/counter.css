@@ -1,0 +1,15 @@
+.allButton{
+  text-align: center;
+}
+.button{
+  background-color: rgb(93, 93, 234);
+  color:white;
+  border-radius: 5px;
+  cursor:pointer;
+}
+#pp{
+  text-align: center;
+  font-size: 80px;
+  align-items: center;
+  margin-bottom: 0cm;
+}
